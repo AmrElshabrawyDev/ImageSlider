@@ -44,7 +44,7 @@ Test the performance of the webpage after deploy by using [GTmetrix](https://gtm
 
 ### 👋 Get In Touch
 
-- [🌐 Website 👉 https://amrelshabrawydev.github.io/ImageSlider](https://amrelshabrawydev.github.io/ImageSlider)
+- [🌐 Website 👉 https://amrelshabrawydev.github.io](https://amrelshabrawydev.github.io)
 - [👔 LinkedIn 👉 https://www.linkedin.com/in/amr-elshabrawy-dev](https://www.linkedin.com/in/amr-elshabrawy-dev)
 - [🌟 Github 👉 https://github.com/amrelshabrawydev](https://github.com/amrelshabrawydev)
 - [📧 Gmail 👉 amrelshabrawy.dev@gmail.com](mailto:amrelshabrawy.dev@gmail.com)
